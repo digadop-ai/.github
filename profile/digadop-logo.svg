@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="64" viewBox="0 0 260 64" role="img" aria-label="Digadop" font-family="'Avenir Next','Avenir','Poppins','Segoe UI',system-ui,sans-serif">
+  <g transform="translate(4 18) scale(0.46)">
+    <g transform="skewX(-18)">
+      <rect x="14" y="36" width="44" height="14" rx="6" fill="#9d8fe4"/>
+      <rect x="14" y="22" width="44" height="14" rx="6" fill="#5b49cf"/>
+      <rect x="14" y="8" width="44" height="14" rx="6" fill="#1f185e"/>
+    </g>
+  </g>
+  <text x="44" y="42" font-size="34" font-weight="600" letter-spacing="-1" fill="#1f185e">digadop</text>
+</svg>
